@@ -1,0 +1,30 @@
+[
+    {
+    "id": 1,
+    "producto": "Cepillo Para Gato",
+    "descripcion": "Cepillo para pelaje de tu felino.",
+    "imagen": "cepillo.jpg",
+    "precio": 15000
+    },
+    {
+    "id": 2,
+    "producto": "Rascador para Gato",
+    "descripcion": "Rascador para garras o cuerpo de su Gato.",
+    "imagen": "rascador.jpg",
+    "precio": 20000
+    },
+    {
+    "id": 3,
+    "producto": "Arenero para tu gato",
+    "descripcion": "Arena para las necesidades de tu felino.",
+    "imagen": "Arenero.jpg",
+    "precio": 23000
+    },
+    {
+    "id": 4,
+    "producto": "Collar para gato",
+    "descripcion": "Pon a la moda a tu Felino.",
+    "imagen": "Collar.jpg",
+     "precio": 30000
+    }
+   ]
